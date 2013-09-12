@@ -15,6 +15,7 @@ public class MainActivity extends ListActivity {
 
     private final List<ActivityInfo> activitiesInfo = Arrays.asList(
             new ActivityInfo(SimpleListActivity.class, R.string.simple_list_example),
+            new ActivityInfo(SimpleListWithHeadersAndFootersActivity.class, R.string.simple_list_with_headers_and_footers_example),
             new ActivityInfo(SimpleGridActivity.class, R.string.simple_grid_example));
 
     @Override

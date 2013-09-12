@@ -6,6 +6,7 @@
     <string name="standard">Standard</string>
     <string name="simple_list_example">Simple List Example</string>
     <string name="simple_grid_example">Simple Grid Example</string>
+    <string name="simple_list_with_headers_and_footers_example">Simple List With Headers and Footers Example</string>
 
     <string-array name="jazzy_effects">
         <item>@string/standard</item>

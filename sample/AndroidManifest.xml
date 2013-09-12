@@ -28,6 +28,9 @@
         <activity
             android:name=".SimpleGridActivity"
             android:label="@string/simple_grid_example" />
+        <activity
+            android:name=".SimpleListWithHeadersAndFootersActivity"
+            android:label="@string/simple_list_with_headers_and_footers_example" />
     </application>
 
 </manifest>
